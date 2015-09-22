@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+alt+down"], "command": "dup_line", "args": {"direction": "down"} },
+	{ "keys": ["ctrl+alt+up"], "command": "dup_line", "args": {"direction": "up"} }
+]
