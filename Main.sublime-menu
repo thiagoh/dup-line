@@ -1,0 +1,18 @@
+[
+    {
+        "id":"edit",
+        "children":
+        [
+            {
+                "caption": "Line", "mnemonic": "L",
+                "id": "line",
+                "children":
+                [
+                    {"command": "dup_line", "caption": "Duplicate Line Up", "args":{"direction": "up"}},
+                    {"command": "dup_line", "caption": "Duplicate Line Down", "args":{"direction": "down"}},
+                    {"command": "dup_line", "caption": "Duplicate Line", "args":{"direction": "down"}}
+                ]
+            }
+        ]
+    }
+]
