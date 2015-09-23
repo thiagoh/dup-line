@@ -1,4 +1,4 @@
-# DupLine
+# DupLines
 
 An extension for Sublime Text 2 and 3!
 
@@ -21,7 +21,7 @@ The easiest way to install this is with [Package Control](http://wbond.net/subli
  * If you just went and installed Package Control, you probably need to restart Sublime Text before doing this next bit.
  * Bring up the Command Palette (Command+Shift+P on OS X, Control+Shift+P on Linux/Windows).
  * Select "Package Control: Install Package" (it'll take a few seconds)
- * Type `DupLine when the list appears.
+ * Type `DupLines` when the list appears.
 
 Package Control will automatically keep Git up to date with the latest version.
 
