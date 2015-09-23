@@ -2,7 +2,7 @@ import sublime
 import sublime_plugin
 
 
-class DupLineCommand(sublime_plugin.TextCommand):
+class DupLinesCommand(sublime_plugin.TextCommand):
 
     def run(self, edit, direction="down"):
 

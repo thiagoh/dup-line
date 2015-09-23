@@ -8,9 +8,9 @@
                 "id": "line",
                 "children":
                 [
-                    {"command": "dup_line", "caption": "Duplicate Line Up", "args":{"direction": "up"}},
-                    {"command": "dup_line", "caption": "Duplicate Line Down", "args":{"direction": "down"}},
-                    {"command": "dup_line", "caption": "Duplicate Line", "args":{"direction": "down"}}
+                    {"command": "dup_lines", "caption": "Duplicate Line Up", "args":{"direction": "up"}},
+                    {"command": "dup_lines", "caption": "Duplicate Line Down", "args":{"direction": "down"}},
+                    {"command": "dup_lines", "caption": "Duplicate Line", "args":{"direction": "down"}}
                 ]
             }
         ]
