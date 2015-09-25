@@ -1,5 +1,4 @@
 [
 	{ "keys": ["ctrl+alt+down"], "command": "dup_lines", "args": {"direction": "down"} },
-	{ "keys": ["ctrl+alt+up"], "command": "dup_lines", "args": {"direction": "up"} },
-	{ "keys": ["ctrl+shift+d"], "command": "dup_lines", "args": {"direction": "down"} }
+	{ "keys": ["ctrl+alt+up"], "command": "dup_lines", "args": {"direction": "up"} }
 ]
