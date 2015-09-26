@@ -8,9 +8,8 @@ Just press the shortcut key `ctrl+alt+up` to duplicate the current line to above
 
 ## Features
 
-1. It extends and improves the duplicate_line sublime's plugin so you can also use `ctrl+shift+d` to duplicate the current line to below and even if you have some text selected the whole line will be copied down.
-2. You can duplicate multiple lines at the same time. All you have to do is put multiple cursors with `ctrl+(mouse left click)` at each line you want to duplicate and after that `ctrl+alt+up` or `ctrl+alt+down`. 
-3. You don't need to select the whole line in order to duplicate it. Any line with a selection will be duplicated.
+1. You can duplicate multiple lines at the same time. All you have to do is put multiple cursors with `ctrl+(mouse left click)` at each line you want to duplicate and after that `ctrl+alt+up` or `ctrl+alt+down`. 
+2. You don't need to select the whole line in order to duplicate it. Any line with a selection will be duplicated.
 
 ## Install
 
